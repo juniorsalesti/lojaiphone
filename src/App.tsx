@@ -172,7 +172,7 @@ const Hero = () => {
               whileHover={{ scale: 1.02 }}
               className="px-8 py-4 bg-white text-black font-bold rounded-xl text-sm"
             >
-              Ver Catálogo 2025
+              Ver Catálogo
             </motion.button>
             <motion.button 
               whileHover={{ scale: 1.02 }}
